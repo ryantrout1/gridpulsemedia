@@ -5,7 +5,7 @@ description: "The plain-language terms for using the Grid Pulse Media site and f
 
 # Terms of Service
 
-Last updated October 5, 2026.
+Last updated October 11, 2026.
 
 These terms cover this website and the marketing service Grid Pulse Media provides. A client's written agreement, if there is one, controls where it differs from this page.
 
@@ -17,15 +17,17 @@ We use AI tools to help write and organize the work. Everything starts from fact
 
 ## Price and billing
 
-The price is $349 per month plus a one-time $999 setup fee, unless we agree something different with you in writing. The setup fee covers your custom website and the setup call.
+The price is $1,500 per month with no setup fee, unless we agree something different with you in writing. Your custom website and the setup call are included.
 
 ## Minimum term and canceling
 
 There is a three-month minimum. After that the service is month to month and you can cancel at any time by telling us. We stop at the end of the period you have paid for.
 
+After the first three months you can switch to hosting only for $99 a month. Your website stays up, and the posting, weekly check and replies stop until you return to the full service.
+
 ## Who owns what
 
-Your website is yours to keep, whether you stay or leave. Your Google profile, social accounts, photos and business information are yours and always were. You give us access so we can do the work, and you can take it back at any time. What we write for you, such as posts and articles, you may keep and use.
+Your website is yours to keep, whether you stay or leave, and your domain is registered in your name. If you cancel, you can keep the site hosted with us for $99 a month, or we send you the site files and point your domain wherever you choose. The site stays live for 30 days after you cancel either way. Your Google profile, social accounts, photos and business information are yours and always were. You give us access so we can do the work, and you can take it back at any time. What we write for you, such as posts and articles, you may keep and use.
 
 ## What we need from you
 

@@ -47,7 +47,7 @@ Be honest about the first one. It is usually the biggest.
 
 ## What we charge
 
-At Grid Pulse Media it is $349 a month plus a one time $999 setup. Start with three months, and after that it is month to month. Each quarter we meet for an hour to plan the next one, and you approve the plan before it starts. Your website is yours to keep either way.
+At Grid Pulse Media it is $1,500 a month, with no setup fee. Start with three months, and after that it is month to month. Each quarter we meet for an hour to plan the next one, and you approve the plan before it starts. Your website is yours to keep either way.
 
 The monthly price pays for a marketing plan built around your goals to run:
 
@@ -56,6 +56,6 @@ The monthly price pays for a marketing plan built around your goals to run:
 - Reviews and comments answered in your own voice.
 - Blog articles that connect back to your services.
 
-Every 90 days we check what worked and plan the next quarter. Setup covers building or cleaning up your website, setting up your Google profile and social accounts correctly, and mapping your first 90-day plan.
+Every 90 days we check what worked and plan the next quarter. Building your website, setting up your Google profile and social accounts correctly, and mapping your first 90-day plan are included.
 
 We put the price out in the open because we want the right owners to say yes quickly and the wrong ones to say no quickly. Saves everyone time. You can read the full list of questions on our [Pricing FAQ](/pricing-faq/), or [get started](https://www.gridpulsemedia.com/start/) with a setup call.

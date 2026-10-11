@@ -6,7 +6,7 @@ Static site, no build step. Hosted on Vercel, deployed from this repo. `main` is
 
 None on the page right now. Terms in use: three-month minimum, then month to month; website is the client's to keep.
 
-Pricing on the page: $349 per month, $999 one-time setup.
+Pricing on the page: $1,500 per month, no setup fee. Hosting only after the first three months: $99 a month (pricing FAQ and terms only, never the home page).
 
 ## Search engines
 
