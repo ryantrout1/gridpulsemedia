@@ -480,6 +480,17 @@ p { margin: 0; }
 .guide-body blockquote { margin: 0 0 1.4em; padding: 14px 18px; background: var(--sand); border-left: 4px solid var(--clay); border-radius: 0 8px 8px 0; }
 .guide-body blockquote p { margin: 0 0 0.7em; }
 .guide-body blockquote > :last-child { margin-bottom: 0; }
+/* Tables written in a guide: same look as the compare table, readable on a phone without sideways scroll */
+.guide-body table { width: 100%; margin: 0 0 1.4em; border-collapse: collapse; font-size: 17px; line-height: 1.5; background: var(--sand); border: 1px solid var(--line); }
+.guide-body th, .guide-body td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.guide-body thead th { font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); background: var(--sand-deep); }
+.guide-body tbody td:first-child { font-weight: 700; }
+.guide-body tbody tr:last-child td { border-bottom: 0; }
+@media (max-width: 560px) {
+  .guide-body table { font-size: 15px; }
+  .guide-body th, .guide-body td { padding: 9px 8px; }
+  .guide-body thead th { font-size: 12px; letter-spacing: .03em; }
+}
 .guide-body > :last-child { margin-bottom: 0; }
 .guide-body + .guide-list { margin-top: 48px; padding-top: 40px; border-top: 1px solid var(--line); }
 .guide-cta { margin-top: 48px; padding: 28px; background: var(--sand); border: 1px solid var(--line); border-radius: 12px; }
