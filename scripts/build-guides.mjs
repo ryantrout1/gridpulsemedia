@@ -269,7 +269,7 @@ ${foot}`);
 // A page for one kind of business (electrician-marketing-service) says what the main plan says, and a few pages cover the
 // same ground as another service. They stay published and linked, but /services/ shows them as short rows of links under the
 // list instead of repeating them as entries. The engine drafts new pages, so the trade rule is a pattern, not a list.
-const BY_TYPE = /^[a-z]+-marketing-service$/;
+const BY_TYPE = /^(?!small-business-)[a-z]+(?:-[a-z]+)*-marketing-service$/;
 const RELATED = new Set(["listing-consistency-service", "website-social-posting-service"]);
 const entry = (p) => `<li><a href="/${p.slug}/"><h2>${esc(p.meta.h1 || p.heading)}</h2></a><p>${esc(p.meta.description)}</p></li>`;
 const linkRow = (head, list) => (list.length ? `<h2 class="more-head">${head}</h2>\n<ul class="link-row">\n${list.map((p) => `<li><a href="/${p.slug}/">${esc(p.meta.h1 || p.heading)}</a></li>`).join("\n")}\n</ul>\n` : "");
