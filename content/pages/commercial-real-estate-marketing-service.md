@@ -24,7 +24,7 @@ We never state a return, a rent figure or a timeline as a promise. Numbers are w
 
 ## What to expect after
 
-Once you start, we write your 90-day plan: what to say, where it goes and when. You read it, ask for changes, and nothing goes out until you approve it. Then posts publish on schedule, reviews and comments get answered in your voice, and your hours and details stay matching on your website, Google profile and the directories customers check. Every 90 days we look at what worked and plan the next stretch. LinkedIn posting, where much of this audience spends its time, is coming soon.
+Once you start, we write your 90-day plan: what to say, where it goes and when. You read it, ask for changes, and nothing goes out until you approve it. Then posts publish on schedule, reviews and comments get answered in your voice, and your hours and details stay matching on your website, Google profile and the directories customers check. Every 90 days we look at what worked and plan the next stretch. LinkedIn, where much of this audience spends its time, is part of the plan too.
 
 ## How to start
 
