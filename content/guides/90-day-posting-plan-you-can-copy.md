@@ -25,7 +25,7 @@ Two sets of examples:
 - What you sell, who you help, and why you do it.
 - A tip, a look behind the scenes, and a customer question.
 
-Use one set, or make your own. The point is to have only three.
+Use one set, or make your own. The point is to have only three. A theme is what a post is about. For what each post is for, see [Give Every Post One Job](/guides/give-every-post-one-job/).
 
 ## Step 2. Assign the weeks
 

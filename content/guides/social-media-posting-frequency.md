@@ -26,7 +26,7 @@ If even one a week sounds like too much, start with one every two weeks and keep
 
 ## Step 3. Pick three themes
 
-Write every post under one of three themes, and you stop staring at a blank screen. A tip, a look behind the scenes and a customer question work for most businesses. See [A 90 Day Posting Plan You Can Copy](/guides/90-day-posting-plan-you-can-copy/) and [Nothing to Say? Post One of These Seven](/guides/what-to-post-when-you-have-nothing-to-say/).
+Write every post under one of three themes, and you stop staring at a blank screen. A tip, a look behind the scenes and a customer question work for most businesses. Then give each post one job, such as getting seen, answering a question or bringing back a regular. See [Give Every Post One Job](/guides/give-every-post-one-job/), [A 90 Day Posting Plan You Can Copy](/guides/90-day-posting-plan-you-can-copy/) and [Nothing to Say? Post One of These Seven](/guides/what-to-post-when-you-have-nothing-to-say/).
 
 ## Step 4. Write a month in one sitting
 

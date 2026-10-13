@@ -69,8 +69,9 @@ export const PATHS = [
   {
     id: "posting-habit",
     title: "Start a posting habit you can keep",
-    blurb: "Pick a pace you can hold, know what to post and plan your first 90 days.",
+    blurb: "Give every post a job, pick a pace you can hold, know what to post and plan your first 90 days.",
     steps: [
+      "give-every-post-one-job",
       "social-media-posting-frequency",
       "what-to-post-when-you-have-nothing-to-say",
       "what-to-post-on-your-google-profile",
